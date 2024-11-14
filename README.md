@@ -1,7 +1,7 @@
 <h3> Bem-vindos ao meu perfil! Meu nome é Bruna Nakamura!😸</h3>
 <br>
 <h4> Sobre mim:</h4>
-<br>
+
 ->🙋‍♀️ Aluna do 2°Ano de Programação de Jogos Digitais da ETEC Avaré
 
 ->🎨 Amo desenhar
