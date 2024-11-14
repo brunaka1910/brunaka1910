@@ -1,16 +1,24 @@
-## Hi there 👋
+<h3> Bem-vindos ao meu perfil! Meu nome é Bruna Nakamura!😸</h3>
+<br>
+<h4> Sobre mim:</h4>
+<br>
+->🙋‍♀️ Aluna do 2°Ano de Programação de Jogos Digitais da ETEC Avaré
 
-<!--
-**brunaka1910/brunaka1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+->🎨 Amo desenhar
 
-Here are some ideas to get you started:
+->👩 Pronomes: Ela/Dela 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+->💃 Dançarina de Street Dance
+<br>
+<br>
+Atualmente, estudando desenvolvimento de jogos e websites, com foco em **C#**, **Unity** e **JavaScript**.
+
+<div style='display:inline'>
+<img width='50' height='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+          
+
